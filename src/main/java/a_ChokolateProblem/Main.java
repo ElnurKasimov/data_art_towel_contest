@@ -1,4 +1,4 @@
-package org.example;
+package a_ChokolateProblem;
 
 public class Main {
     public static void main(String[] args) {
