@@ -1,8 +1,8 @@
 package a_ChokolateProblem;
 
-public class Main {
+public class SolutionA {
 
-//    A
+//    Task A
 //
 //    Chocolate problem
 //    Collision of titans, breaking bars, mind games - that's what awaits you in this problem.
